@@ -26,7 +26,7 @@
 <p>
 </p>
 <div id="stat" align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namexdx&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namexdx&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namexdx&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAME24XD&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAME24XD&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAME24XD&theme=github_dark" alt=""/>
 </div>
